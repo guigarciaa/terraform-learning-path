@@ -21,3 +21,4 @@
     - Apply direto usando arquivo de saída. 
         - "terraform apply -out=nomedoarquivo.out" (cria o arquivo)
         - "terraform apply "nomedoarquivo.out""
+        - teste
